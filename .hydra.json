@@ -16,7 +16,7 @@
          "type": 1,
          "hidden": false,
          "description": "Build next branch",
-         "flake": "github:Tommixe/nixos-config/next",
+         "flake": "git@github.com:Tommixe/nixos-config/next",
          "checkinterval": 60,
          "schedulingshares": 5,
          "enableemail": false,
