@@ -22,7 +22,7 @@
          "enableemail": false,
          "emailoverride": "",
          "keepnr": 1
-     }
+     },
     "confsec": {
          "enabled": 1,
          "type": 1,
